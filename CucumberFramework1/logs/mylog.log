@@ -1,0 +1,7 @@
+[INFO ] 2023-12-12 19:31:50.555 [main] BasePage - initializing session
+[INFO ] 2023-12-12 19:31:50.575 [main] BasePage - Enter product name in search box
+[INFO ] 2023-12-12 19:31:52.344 [main] BasePage - Clicking on submit button to find product result
+[INFO ] 2023-12-12 19:31:59.136 [main] BasePage - Selecting 1st product from product list displayed
+[INFO ] 2023-12-12 19:31:59.359 [main] BasePage - Click to add to Cart button to add selected product
+[INFO ] 2023-12-12 19:32:16.523 [main] BasePage - Product is added to cart successfully
+[INFO ] 2023-12-12 19:32:17.743 [main] BasePage - Quiting the driver
